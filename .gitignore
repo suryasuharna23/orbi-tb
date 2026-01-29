@@ -1,0 +1,18 @@
+# Mac OS
+.DS_Store
+
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# Node / JS
+node_modules/
+.next/
+dist/
+build/
+.expo/
+
+# Environment Variables (Sangat penting agar API Key tidak bocor!)
+.env
+.env.local
